@@ -1,2 +1,2 @@
 # CurriculoWeb
-Atividade extra do Senac
+Atividade extra do Senac.
